@@ -1,0 +1,23 @@
+{
+  "name": "RecettesSanderin",
+  "short_name": "RecettesSanderin",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fafaf9",
+  "theme_color": "#ea580c",
+  "orientation": "portrait",
+  "id": "/?source=pwa",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3461/3461980.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3461/3461980.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
